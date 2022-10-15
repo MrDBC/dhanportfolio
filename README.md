@@ -1,5 +1,1 @@
-
-my portfolio website made using 
-1. HTML
-2. CSS
-3. JAVASCRIPT
+my portfolio website 
