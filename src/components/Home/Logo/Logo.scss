@@ -1,0 +1,32 @@
+.logo-container{
+    z-index: -1;
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    top: 0;
+    right: -25%;
+    bottom: -45%;
+    left: auto;
+    margin: auto;
+    //opacity: 0;
+
+    
+    img{
+        display: inline-block;
+        position: absolute;
+        top: auto;
+        right: auto;
+        bottom: auto;
+        left: 0;
+        width: 100%;
+        height: auto;
+        transform: rotateZ(15deg) !important;
+        opacity: 0;
+        animation: bounceIn 1s 3s;
+        animation-fill-mode: forwards;
+        
+    }
+    
+
+    
+}
