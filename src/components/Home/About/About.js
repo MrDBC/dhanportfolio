@@ -40,6 +40,15 @@ const About = () => {
                             <li>O <a href='https://city-weather-infoo.netlify.app' >City Weather</a></li>
                         </div>
                         <div className='card'>
+                            <li>O <a href='https://rock-paper-scissors-mrdbc.vercel.app' >Rock Paper Scissors</a></li>
+                        </div>
+                        <div className='card'>
+                            <li>O <a href='https://game-of-flags.vercel.app' >Guess the Flag</a></li>
+                        </div>
+                        <div className='card'>
+                            <li>O <a href='https://google-translate-tau.vercel.app' >Google Translate App</a></li>
+                        </div>
+                        <div className='card'>
                             <li>O <a href='https://googole.netlify.app' >Googole</a></li>
                         </div>
                         <div className='card'>
